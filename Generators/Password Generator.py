@@ -1,3 +1,6 @@
+# surely EVERYONE starst w this lol
+# my take
+
 import random
 import string
 import time
