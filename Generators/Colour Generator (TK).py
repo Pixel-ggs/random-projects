@@ -1,3 +1,5 @@
+# satisfying AF, I hate TK tho :(
+
 import tkinter as tk, random as r, time as t
 
 root = tk.Tk()
