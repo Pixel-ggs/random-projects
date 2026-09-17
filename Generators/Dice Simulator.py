@@ -1,3 +1,6 @@
+# fun lil dice sim
+# probably gonna make a UI ver soon if i can be bothered, this isn't great yet, fun tho
+
 import random
 import time
 import os
